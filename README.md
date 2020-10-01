@@ -1,4 +1,11 @@
-# text-encoder-decoder
+# Text-Encoder-Decoder
+## Simple text encode and decoder
+
+#### Do not understand my commit messages?hah.try this app ;)
+
+
+
+
 
 ## Project setup
 ```
