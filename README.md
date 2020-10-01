@@ -1,5 +1,5 @@
-# Text-Encoder-Decoder
-## Simple text encode and decoder
+# Text-Encoder-And-Decoder
+## Simple text encoder and decoder
 
 #### Do not understand my commit messages?hah.try this app ;)
 
