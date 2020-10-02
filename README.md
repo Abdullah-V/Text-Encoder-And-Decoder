@@ -1,7 +1,7 @@
 # Text-Encoder-And-Decoder
 ## Simple text encoder and decoder
 
-#### Do not understand my commit messages?hah.try this app ;)
+#### Do not understand my commit messages?try this app ;)
 
 
 
